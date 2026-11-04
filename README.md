@@ -120,10 +120,9 @@ Each record is one entity in one state. `formation_date` is a plain `YYYY-MM-DD`
 
 | Event | Price (USD) |
 |---|---|
-| Actor start | $0.2 |
 | Result row emitted | $0.005 |
 
-Prices as configured on 2026-08-20. The [Actor page](https://apify.com/DevilScrapes/new-business-filings-leads-scraper) always shows the current price. Runs are billed to the Apify account that owns the token. Use `--max-charge` to cap what a single run can cost.
+Prices as configured on 2026-11-03. The [Actor page](https://apify.com/DevilScrapes/new-business-filings-leads-scraper) always shows the current price. Runs are billed to the Apify account that owns the token. Use `--max-charge` to cap what a single run can cost.
 
 ## 🛠️ Working with the data in Python
 
